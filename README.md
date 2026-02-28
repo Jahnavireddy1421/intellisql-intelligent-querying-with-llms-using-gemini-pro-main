@@ -33,6 +33,6 @@ streamlit run app.py
 
 
 ## 👨‍💻 Author
-- **Name**: ANJANA KATIKAM LAKSHMANNAGARI
+- **Name**: MABBU JAHNAVI
 - **Role**: AI/Python Intern
 - **Project**: IntelliSQL (LLM-based SQL Generator)
