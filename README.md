@@ -17,7 +17,6 @@ IntelliSQL is a generative AI application that transforms natural language quest
 1. **Clone the repository**:
    ```bash
    https://github.com/Jahnavireddy1421/intellisql-intelligent-querying-with-llms-using-gemini-pro-main.git
-
 pip install -r requirements.txt
 Set up environment variables: Create a .env file and add your Google API Key: GOOGLE_API_KEY=your_api_key_here
 
